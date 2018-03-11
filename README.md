@@ -1,5 +1,4 @@
 # Project name:  
-====================
 Linux Server : You will take a baseline installation of a Linux server and prepare it to host your web applications. You will secure your server from a number of attack vectors, install and configure a database server, and deploy one of your existing web applications onto it.
 
 # Configuration steps:  
@@ -25,5 +24,5 @@ Linux Server : You will take a baseline installation of a Linux server and prepa
 * Restart Apache
 
   # How to run it:  
-  * ssh connection: ssh grader@52.59.209.215 -p 2200 -i ~/.ssh/rsa_id
-  * Item Catalog link: http://52.59.209.215.xip.io
+  * ssh connection: ssh grader@18.197.166.101 -p 2200 -i ~/.ssh/rsa_id
+  * Item Catalog link: http://18.197.166.101.xip.io/
