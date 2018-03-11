@@ -1,10 +1,9 @@
-# Linux-server
-Project name:  
+# Project name:  
 ====================
 Linux Server : You will take a baseline installation of a Linux server and prepare it to host your web applications. You will secure your server from a number of attack vectors, install and configure a database server, and deploy one of your existing web applications onto it.
 
-Configuration steps:  
-====================
+# Configuration steps:  
+
 * Add user grader to sudo group
 * Update all currently installed packages
 * Set-up SSH keys for user grader
@@ -25,7 +24,6 @@ Configuration steps:
 * Configure Apache to serve the web application using WSGI
 * Restart Apache
 
-  How to run it:  
-  ====================
+  # How to run it:  
   * ssh connection: ssh grader@52.59.209.215 -p 2200 -i ~/.ssh/rsa_id
   * Item Catalog link: http://52.59.209.215.xip.io
